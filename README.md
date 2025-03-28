@@ -1,3 +1,27 @@
+
+<pre>
+ /$$$$$$  /$$$$$$$$  /$$$$$$  /$$$$$$$   /$$$$$$ 
+/$$__  $$|_____ $$  /$$__  $$| $$__  $$ /$$__  $$
+| $$  \ $$     /$$/ | $$  \ $$| $$  \ $$| $$  \ $$
+| $$$$$$$$    /$$/  | $$$$$$$$| $$$$$$$/| $$  | $$
+| $$__  $$   /$$/   | $$__  $$| $$__  $$| $$  | $$
+| $$  | $$  /$$/    | $$  | $$| $$  \ $$| $$  | $$
+| $$  | $$ /$$$$$$$$| $$  | $$| $$  | $$|  $$$$$$/
+|__/  |__/|________/|__/  |__/|__/  |__/ \______/
+</pre>
+
+> **Stoicism runs through the code.**  
+> Money isn’t the goal — clarity is.  
+> New York is noisy, but I’m brewing soup. 🍲  
+> Every commit is a choice. Every merge, a negotiation.  
+> Every bug is an opportunity to reflect.  
+>
+> **Seek meaning in data. Find data in meaning.**  
+>
+> 🕵️ *Looking for the Easter Egg? It’s not hidden. It lives between the lines.*
+
+
+
 # 👋 Hi, I'm AZARO
 
 🎓 Data Scientist | 🌐 Full-Stack Developer | ⛓ Web3 Enthusiast  
