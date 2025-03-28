@@ -46,6 +46,19 @@
 
 ---
 
+### 🤝 Soft Skills
+
+- 🧩 **Problem Solving**
+- 🧠 **Critical Thinking**
+- 🗣️ **Communication**
+- 🤝 **Teamwork**
+- 👀 **Attention to Detail**
+- ⏱️ **Time Management**
+- 🔄 **Adaptability**
+- 📚 **Continuous Learning**
+
+---
+
 ### 🧠 Interests:
 Cognitive science 🧬 • Blockchain ecosystems ⛓ • Old maps & engravings 🗺 • DIY automation ⚙️ • Stoic philosophy 📜
 
