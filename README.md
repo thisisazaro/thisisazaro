@@ -42,12 +42,7 @@
 ### 📈 GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisazaro&show_icons=true&theme=tokyonight)
-
----
-
-### 🧠 Skills Overview
-
-![Skills Radar](./assets/skills-overview.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisazaro&layout=compact&theme=tokyonight)
 
 ---
 
